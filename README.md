@@ -5,7 +5,7 @@ Marketing Digital</h1>
 
 
 # Descrição
-O Marketing Digital é um dos segmentos de maior crescimento porque permite o aumento do relacionamento com clientes através de diversas técnicas para divulgação de produtos e serviços. O grande motivo desse destaque foi a democratização da Internet e o uso massivo das redes sociais e dispositivos móveis. Ao estudar este curso, você abrirá muitas portas tanto profissionalmente, como para o crescimento da sua empresa.
+O Marketing Digital é um dos segmentos de maior crescimento, permite o aumento do relacionamento com clientes através de diversas técnicas para divulgação de produtos e serviços. O grande motivo desse destaque foi a democratização da Internet e o uso massivo das redes sociais e dispositivos móveis. Ao estudar este curso, você abrirá muitas portas tanto profissionalmente, como para o crescimento da sua empresa.
 
 # Características
 Ministrado por Gustavo Guanabara nesse curso são abordados os fundamentos do Marketing, ferramentas importantes, termos técnicos do Marketing Digital além dos seguintes temas:
