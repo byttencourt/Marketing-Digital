@@ -19,11 +19,13 @@ Ministrado por Gustavo Guanabara nesse curso são abordados os fundamentos do Ma
 - Marketing de Conteúdo.
 
 # Screenshots
- <img src="https://i.imgur.com/8RS4Awf.png">   <br>
- <img src="https://i.imgur.com/3XlNAgC.png">
+ <img src="https://i.imgur.com/sFXOf70.png">   <br>
+ <img src="https://i.imgur.com/uMB2Jmv.png">
       
 
-![Badge em Desenvolvimento](https://img.shields.io/badge/curso-em%20Andamento-green)<br>
+# Mais detalhes:
+80% Aproveitamento
 
-Ps: Agradecimento especial ao Gustavo Guanabara por compartilhar seu conhecimento e a maestria em Ensinar.      
-<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=curso&message=concluido&color=GREEN&style=for-the-badge)<br>
+
+Ps: Agradecimento especial ao Gustavo Guanabara por compartilhar seu conhecimento e a maestria em Ensinar. 
